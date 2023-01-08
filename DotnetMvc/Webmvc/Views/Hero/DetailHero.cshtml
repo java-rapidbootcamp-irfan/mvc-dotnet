@@ -1,0 +1,27 @@
+﻿@model HeroViewModel
+@{
+    ViewData["Title"] = "Hero Detail";
+}
+
+<h2>Hero Detail</h2>
+<table class="table tab-content">
+    <tbody>
+        <tr>
+            <th>Id</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Hero Name</th>
+            <td>@Model.Name</td>
+        </tr>
+
+        <tr>
+            <th>Role</th>
+            <td>@Model.Role</td>
+        </tr>
+        <tr>
+            <th>Power</th>
+            <td>@Model.Power</td>
+        </tr>
+    </tbody>
+</table>

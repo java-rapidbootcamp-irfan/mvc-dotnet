@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Webmvc
+build_property.RootNamespace = Webmvc
+build_property.ProjectDir = E:\Codes\belajar dotnet\mvc-dotnet\DotnetMvc\Webmvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Codes\belajar dotnet\mvc-dotnet\DotnetMvc\Webmvc
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Absen/AddAbsen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJzZW5cQWRkQWJzZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Absen/DetailAbsen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJzZW5cRGV0YWlsQWJzZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Absen/EditAbsen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJzZW5cRWRpdEFic2VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Absen/ListAbsen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJzZW5cTGlzdEFic2VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Berita/AddBerita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVyaXRhXEFkZEJlcml0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Berita/DetailBerita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVyaXRhXERldGFpbEJlcml0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Berita/EditBerita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVyaXRhXEVkaXRCZXJpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Berita/ListBerita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVyaXRhXExpc3RCZXJpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Hero/AddHero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb1xBZGRIZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Hero/DetailHero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb1xEZXRhaWxIZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Hero/EditHero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb1xFZGl0SGVyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Hero/ListHero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb1xMaXN0SGVyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Home/HelpDesk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxwRGVzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Home/Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Inventory/AddAsset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEFkZEFzc2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Inventory/DetailAsset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERldGFpbEFzc2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Inventory/EditAsset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEVkaXRBc3NldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Inventory/ListAsset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XExpc3RBc3NldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Codes/belajar dotnet/mvc-dotnet/DotnetMvc/Webmvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i5nsanov2c
