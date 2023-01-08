@@ -17,7 +17,7 @@ namespace Webmvc.Controllers
         }
 
         [HttpPost]
-        public IActionResult Save([Bind("Id, Name, Keterangan, TotalAbsen")] AbsenViewModel absen)
+        public IActionResult SaveAbsen([Bind("Id, Name, Keterangan, TotalAbsen")] AbsenViewModel absen)
         {
             _absenViewModel.Add(absen);
             return Redirect("List");
@@ -36,7 +36,7 @@ namespace Webmvc.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(int id, [Bind("Id, Name, Keterangan, TotalAbsen")] AbsenViewModel absen)
+        public IActionResult UpdateAbsen(int id, [Bind("Id, Name, Keterangan, TotalAbsen")] AbsenViewModel absen)
         {
             
             AbsenViewModel absenOld = _absenViewModel.Find(x => x.Id.Equals(id));
@@ -58,7 +58,7 @@ namespace Webmvc.Controllers
             return View(absen);
         }
 
-        public IActionResult Delete(int? id)
+        public IActionResult DeleteAbsen(int? id)
         {
             
             AbsenViewModel absen = _absenViewModel.Find(x => x.Id.Equals(id));

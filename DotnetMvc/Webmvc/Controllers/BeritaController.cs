@@ -16,7 +16,7 @@ namespace Webmvc.Controllers
         }
 
         [HttpPost]
-        public IActionResult Save([Bind("Id, Name, Description")] BeritaViewModel berita)
+        public IActionResult SaveBerita([Bind("Id, Name, Description")] BeritaViewModel berita)
         {
             _beritaViewModel.Add(berita);
             return Redirect("List");
@@ -35,7 +35,7 @@ namespace Webmvc.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(int id, [Bind("Id, Name, Description")] BeritaViewModel berita)
+        public IActionResult UpdateBerita(int id, [Bind("Id, Name, Description")] BeritaViewModel berita)
         {
 
             BeritaViewModel beritaOld = _beritaViewModel.Find(x => x.Id.Equals(id));
@@ -57,7 +57,7 @@ namespace Webmvc.Controllers
             return View(berita);
         }
 
-        public IActionResult Delete(int? id)
+        public IActionResult DeleteBerita(int? id)
         {
 
             BeritaViewModel berita = _beritaViewModel.Find(x => x.Id.Equals(id));

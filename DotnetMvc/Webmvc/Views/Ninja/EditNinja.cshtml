@@ -1,28 +1,28 @@
-﻿@model HeroViewModel
+﻿@model NinjaViewModel
 @{
-    ViewData["Title"] = "Hero Edit Data";
+    ViewData["Title"] = "Ninja Edit Data";
 }
 
-<h2>Form Edit Hero</h2>
+<h2>Form Edit Ninja</h2>
 
 <form asp-action="Update" method="post">
     <div class="form-group">
-        <label asp-for="Id">Hero Id</label>
+        <label asp-for="Id">Ninja Id</label>
         <input asp-for="Id" class="form-control">
     </div>
 
     <div class="form-group">
-        <label asp-for="Name">Hero Name</label>
+        <label asp-for="Name">Ninja Name</label>
         <input asp-for="Name" class="form-control">
     </div>
 
     <div class="form-group">
-        <label asp-for="Role">Hero Role</label>
-        <input asp-for="Role" class="form-control">
+        <label asp-for="Color">Ninja Color</label>
+        <input asp-for="Color" class="form-control">
     </div>
 
     <div class="form-group">
-        <label asp-for="Power">Hero Power</label>
+        <label asp-for="Power">Ninja Power</label>
         <input asp-for="Power" class="form-control">
     </div>
 

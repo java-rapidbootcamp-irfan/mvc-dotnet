@@ -47,7 +47,7 @@ namespace Webmvc.Controllers
             return Redirect("ListNinja");
         }
 
-        public IActionResult DetaileNinja(int Id) 
+        public IActionResult DetailNinja(int Id) 
         {
             NinjaViewModel ninja = (
                 from n in _ninjaViewModel

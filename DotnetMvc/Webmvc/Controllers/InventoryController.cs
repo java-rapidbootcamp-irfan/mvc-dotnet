@@ -17,7 +17,7 @@ namespace Webmvc.Controllers
             return View();
         }
 
-        public IActionResult Save([Bind("Id, Name, Procecor, Tahun")] InventoryViewModel inventory)
+        public IActionResult SaveInventory([Bind("Id, Name, Procecor, Tahun")] InventoryViewModel inventory)
         {
             _inventoryViewModel.Add(inventory);
             return Redirect("List");
@@ -36,7 +36,7 @@ namespace Webmvc.Controllers
 
         [HttpPost]
 
-        public IActionResult Update(int id, [Bind("Id, Name, Procecor, Tahun")] InventoryViewModel inventory)
+        public IActionResult UpdateInventory(int id, [Bind("Id, Name, Procecor, Tahun")] InventoryViewModel inventory)
         {
             InventoryViewModel inventoryOld = _inventoryViewModel.Find(x => x.Id.Equals(id));
             _inventoryViewModel.Remove(inventoryOld);
@@ -54,7 +54,7 @@ namespace Webmvc.Controllers
             return View(inventory);
         }
 
-        public IActionResult Delete(int id) 
+        public IActionResult DeleteInventory(int id) 
         {
             InventoryViewModel inventory = _inventoryViewModel.Find(x => x.Id.Equals(id));
             _inventoryViewModel.Remove(inventory);

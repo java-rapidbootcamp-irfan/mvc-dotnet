@@ -3,11 +3,11 @@
     ViewData["Title"] = "Inventory List";
 }
 
-<h2>Product List</h2>
+<h2>Inventory List</h2>
 <table class="table table-responsive">
     <thead>
         <tr>
-            <th>ID</th>
+            <th>Id</th>
             <th>Name</th>
             <th>Procecor</th>
             <th>Tahun</th>
@@ -24,7 +24,7 @@
                     <td>@item.Tahun</td>
                     <td>
                         <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
-                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-success">View</a>
+                        <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-sm btn-success">View</a>
                         <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
                     </td>
                 </tr>

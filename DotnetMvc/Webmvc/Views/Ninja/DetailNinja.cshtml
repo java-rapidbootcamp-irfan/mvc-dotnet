@@ -1,0 +1,27 @@
+﻿@model NinjaViewModel
+@{
+    ViewData["Title"] = "Ninja Detail";
+}
+
+<h2>Ninja Detail</h2>
+<table class="table tab-content">
+    <tbody>
+        <tr>
+            <th>Id</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Ninja Name</th>
+            <td>@Model.Name</td>
+        </tr>
+
+        <tr>
+            <th>Color</th>
+            <td>@Model.Color</td>
+        </tr>
+        <tr>
+            <th>Power</th>
+            <td>@Model.Power</td>
+        </tr>
+    </tbody>
+</table>
